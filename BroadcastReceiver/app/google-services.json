@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660991759210",
+    "project_id": "broadcast-receiver-7935c",
+    "storage_bucket": "broadcast-receiver-7935c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660991759210:android:60de2c3f03e76d1e7acb13",
+        "android_client_info": {
+          "package_name": "com.example.broadcastreceiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGjwwlt8AhePHnPOxifkfQMlLcLBGmlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
